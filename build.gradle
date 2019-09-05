@@ -18,10 +18,11 @@ allprojects {
     repositories {
         google()
         jcenter()
+        // Replace this line with the TomTom Maven repository
+
     }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
-
