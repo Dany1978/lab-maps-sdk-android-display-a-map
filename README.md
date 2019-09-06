@@ -2,9 +2,9 @@
 
 ## In this course you will learn:
 
-How to start your journey with TomTom Map SDK
-Write a simple Android Main Activity
-Connect with TomTom Web Services using TomTom developer portal
+* How to start your journey with TomTom Map SDK
+* Write a simple Android Main Activity
+* Connect with TomTom Web Services using TomTom developer portal
 
 ## Build the next generation of location experiences
 
