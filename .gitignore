@@ -1,9 +1,19 @@
-# Ignore Gradle project-specific cache directory
+# Ignore Gradle project-specific cache directory and local properties
 .gradle
+local.properties
+.externalNativeBuild
 
 # Ignore Gradle build output directory
 build
 
+# Ignore Android generated files
+captures/
+
 # Ignore Android Studio specific files and directories
 .project
 .settings
+.idea/
+*.iml
+
+# Other files
+.DS_Store
