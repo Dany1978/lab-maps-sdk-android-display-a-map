@@ -12,6 +12,10 @@ In order to get a fully functional application you need to obtain a free API key
 
 **WARNING:** Keep in mind that the API key is personal and can't be shared nor pushed to the public repository. By doing that you would violate terms and conditions.
 
+## Example App
+
+At the end of a day, you will create an Android app which will look like this:
+
 ![0-example-app](assets/0-example-app.png)
 
 ## Requirements
