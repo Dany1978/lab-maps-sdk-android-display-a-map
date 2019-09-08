@@ -1,4 +1,4 @@
 <resources>
-  <string name="app_name">TomTom Maps SDK application</string>
+  <string name="app_name">TomTom Maps SDK - Display Map Application</string>
   <string name="action_settings">Settings</string>
 </resources>

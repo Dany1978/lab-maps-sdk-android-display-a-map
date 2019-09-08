@@ -1,4 +1,4 @@
-package com.tomtom.online.sdk.searchalongaroute;
+package com.tomtom.online.sdk.displaymap;
 
 import android.content.Context;
 
