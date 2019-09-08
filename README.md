@@ -1,4 +1,5 @@
-# This tutorial shows how to use TomTom Maps SDK for Android and create an working application in less than 30 minutes.
+# This tutorial shows how to use TomTom Maps SDK for Android and create an working application in less than 30 minutes
+[![Build Status](https://travis-ci.org/tomtom-international-labs/maps-sdk-android-display-a-map-template.svg?branch=master)](https://travis-ci.org/tomtom-international-labs/maps-sdk-android-display-a-map-template)
 
 ## In this course you will learn:
 
